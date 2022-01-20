@@ -1,0 +1,7 @@
+[15-Aug-2020 23:41:29 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/digtlemperium/public_html/experimental/shop_handling/v2/FL/BSU/Vega.php on line 99
+[17-Aug-2020 17:55:47 UTC] PHP Fatal error:  Call to undefined function nexus_checksess() in /home/digtlemperium/public_html/experimental/shop_handling/v2/checkout.php on line 12
+[17-Aug-2020 17:56:24 UTC] PHP Fatal error:  Call to undefined function nexus_checksess() in /home/digtlemperium/public_html/experimental/shop_handling/v2/checkout.php on line 12
+[17-Aug-2020 17:56:48 UTC] PHP Fatal error:  Call to undefined function seraphim_handle() in /home/digtlemperium/public_html/experimental/shop_handling/v2/checkout.php on line 7
+[17-Aug-2020 17:57:01 UTC] PHP Fatal error:  Call to undefined method Vega_Nexus::checksess() in /home/digtlemperium/public_html/experimental/shop_handling/v2/FL/Nexus.php on line 13
+[17-Aug-2020 17:58:10 UTC] PHP Fatal error:  Call to undefined method Vega_Nexus::checksess() in /home/digtlemperium/public_html/experimental/shop_handling/v2/FL/Nexus.php on line 13
+[17-Aug-2020 19:12:15 UTC] PHP Fatal error:  Call to undefined method Vega_Nexus::createsess() in /home/digtlemperium/public_html/experimental/shop_handling/v2/FL/Nexus.php on line 25
